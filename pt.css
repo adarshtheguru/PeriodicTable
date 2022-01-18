@@ -1,0 +1,62 @@
+table{
+    height:auto;width: auto;
+}
+h1{
+    text-align: center; font-family:monospace;
+    background-color:blanchedalmond;
+}
+h2{
+    text-align: center; font-family:monospace;
+}
+span{
+	background-color:black;
+	color:yellow;
+}
+th{
+	background-color:blanchedalmond;
+	font-family:monospace;
+}
+td{
+    height: 50;width: 50;
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family:monospace;
+}
+.noborder{
+    border:none;
+}
+.non_metalc{
+    background-color: #F66448;
+}
+.alkali_metalc{
+    background-color:#F1BF4F;
+}
+.alkaline_emetalc{
+    background-color:#D8821C;
+}
+.rare_metalc{
+    background-color:#C4DF53;
+}
+.actinoidc{
+    background-color:#62D0DE;
+}
+.trans_metalc{
+    background-color:#B860BE;
+}
+.other_mc{
+    background-color:#E68196;
+}
+.halogensc{
+    background-color:#25C437;
+}
+.noblegc{
+    background-color:#E5E5E5;
+}
+.text_color{
+    color: aliceblue; 
+}
+dt{
+   font-family:monospace;text-align:left;
+    font-size: 20px; margin: 10px;
+}
